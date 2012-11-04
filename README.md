@@ -1,0 +1,1 @@
+Application will calculate billable amount discounts based on item type and user types.
